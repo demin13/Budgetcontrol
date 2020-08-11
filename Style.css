@@ -1,0 +1,22 @@
+
+.signup-box{
+  max-width: 900px;
+  float: none;
+  margin: 85px auto;
+}
+.login-box{
+  max-width: 900px;
+  float: none;
+  margin: 145px auto;
+}
+.index-box{
+  background-color: rgba(0,0,0,0.5);
+  float: none;
+  padding: 3rem;
+  color: white;
+  margin: 245px auto;
+}
+.buttonpos{
+  text-align: center;
+  padding: 1.5rem;
+}
