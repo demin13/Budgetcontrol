@@ -52,7 +52,7 @@
         <div class="col-md-6 col-md-offset-3">
         <h1>We help you control your budget</h1>
         <div class="buttonpos">    
-        <a href="login.php"><button class="btn btn-success">Start Today</button></a>
+        <a href="login.php"><button class="btn btn-lg btn-info">Start Today</button></a>
         </div>    
     </div>
     </div>
@@ -72,15 +72,5 @@
 
 
 </body>
-<script type="text/javascript">
-    function sayHello(){
-        console.log("Goodbye");
-        $(".title").html("Goodbye");
-        $(".title").click(function(){
-            $(".title").html("Hello");
-            $(".title").off("click");
-        });
-    };
-</script>
 
 </html>

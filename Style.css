@@ -20,3 +20,17 @@
   text-align: center;
   padding: 1.5rem;
 }
+.homeh-box{
+  max-width: 500px;
+  float: none;
+  padding: 5rem;
+  margin-top: 186px;
+}
+.createnew-box{
+  max-width: 330px;
+  background-color:rgba(217,215,215,0.3);
+    float:none;
+    padding: 8.5rem;
+    margin: 95px auto;
+    
+}

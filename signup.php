@@ -2,6 +2,8 @@
 <html>
     <head>
         <title>SignUp</title>
+        <meta charset="UTF-8">
+        
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="Style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
@@ -36,7 +38,7 @@
             <div class="signup-box">
         <div class="row">
         <div class="col-md-6 col-md-offset-3">
-        <form action="submitsignup.php" method="POST">
+        <form action="submitsignup.php" method="post">
           <div class="jumbotron" style="background:white;"> 
             <h4 class="col-sm-offset-5">Sign Up</h4>
             <hr>    
